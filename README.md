@@ -1,4 +1,9 @@
-# Golang Transaction Manager [![Go Report Card](https://goreportcard.com/badge/github.com/moguchev/transaction_manager?style=flat-square)](https://goreportcard.com/report/github.com/moguchev/transaction_manager) [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/github.com/moguchev/transaction_manager) [![Release](https://img.shields.io/github/release/golang-standards/project-layout.svg?style=flat-square)](https://github.com/golang-standards/project-layout/releases/latest)
+# Golang Transaction Manager
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/moguchev/transaction_manager)](https://goreportcard.com/report/github.com/moguchev/transaction_manager)
+[![Go](https://github.com/moguchev/transaction_manager/actions/workflows/go.yml/badge.svg)](https://github.com/moguchev/transaction_manager/actions/workflows/go.yml)
+[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/github.com/moguchev/transaction_manager)
+[![Release](https://img.shields.io/github/release/golang-standards/project-layout.svg?style=flat-square)](https://github.com/golang-standards/project-layout/releases/latest)
 
 
 Transaction manager is an abstraction to coordinate database transaction boundaries.
